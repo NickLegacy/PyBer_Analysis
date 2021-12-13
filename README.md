@@ -3,7 +3,7 @@
 ## Overview of the analysis
 
 ## Results
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![This is an image](https://github.com/NickLegacy/PyBer_Analysis/blob/main/analysis/fig8.png)
+Total 
 
 ## Summary
